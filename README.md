@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naveendharni
-- 👀 I’m specialised in Frontend technologies and framework like React
-- 🌱 I’m currently learning more about backend technologies
+- 👀 I’m specialised in Web technologies and framework like React, Node and Sql
+- 🌱 I’m currently learning more about devops and system design
 - 📫 How to reach me +1 437-989-8958 & naveen.dharni@gmail.com
 
 <!---
