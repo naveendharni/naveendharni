@@ -1,6 +1,6 @@
 # Hi there, I'm Naveen Dharni 👋
 
-I'm a **Senior Full-Stack Engineer** based in Burlington, Ontario, with 9+ years of experience building high-performance, scalable web applications.
+I'm a **Senior Full-Stack Engineer** based in Burlington, Ontario, with 10+ years of experience building high-performance, scalable web applications.
 
 ## 🚀 What I Do
 - **Frontend:** React, Next.js, Redux, TypeScript
